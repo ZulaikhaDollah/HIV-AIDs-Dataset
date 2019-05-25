@@ -1,0 +1,349 @@
+Year,Nx,Occupation,MortRate
+1986," 16,329,375 ",Unemployed,0.000
+1986," 16,329,375 ",Government servant,0.000
+1986," 16,329,375 ",Student,0.000
+1986," 16,329,375 ",Police/Army,0.000
+1986," 16,329,375 ",Fisherman/Fishmonger,0.000
+1986," 16,329,375 ",Factory Woker,0.000
+1986," 16,329,375 ",Private Sector ,0.000
+1986," 16,329,375 ",Prostitute,0.000
+1986," 16,329,375 ",Housewife,0.000
+1986," 16,329,375 ",Lorry Driver,0.000
+1986," 16,329,375 ",Others,0.006
+1986," 16,329,375 ",No Permenant Job,0.000
+1987," 16,773,474 ",Unemployed,0.000
+1987," 16,773,474 ",Government servant,0.000
+1987," 16,773,474 ",Student,0.000
+1987," 16,773,474 ",Police/Army,0.000
+1987," 16,773,474 ",Fisherman/Fishmonger,0.000
+1987," 16,773,474 ",Factory Woker,0.000
+1987," 16,773,474 ",Private Sector ,0.000
+1987," 16,773,474 ",Prostitute,0.000
+1987," 16,773,474 ",Housewife,0.000
+1987," 16,773,474 ",Lorry Driver,0.000
+1987," 16,773,474 ",Others,0.000
+1987," 16,773,474 ",No Permenant Job,0.000
+1988," 17,219,061 ",Unemployed,0.000
+1988," 17,219,061 ",Government servant,0.006
+1988," 17,219,061 ",Student,0.000
+1988," 17,219,061 ",Police/Army,0.000
+1988," 17,219,061 ",Fisherman/Fishmonger,0.000
+1988," 17,219,061 ",Factory Woker,0.000
+1988," 17,219,061 ",Private Sector ,0.000
+1988," 17,219,061 ",Prostitute,0.000
+1988," 17,219,061 ",Housewife,0.000
+1988," 17,219,061 ",Lorry Driver,0.000
+1988," 17,219,061 ",Others,0.006
+1988," 17,219,061 ",No Permenant Job,0.000
+1989," 17,662,020 ",Unemployed,0.000
+1989," 17,662,020 ",Government servant,0.000
+1989," 17,662,020 ",Student,0.000
+1989," 17,662,020 ",Police/Army,0.000
+1989," 17,662,020 ",Fisherman/Fishmonger,0.000
+1989," 17,662,020 ",Factory Woker,0.000
+1989," 17,662,020 ",Private Sector ,0.000
+1989," 17,662,020 ",Prostitute,0.000
+1989," 17,662,020 ",Housewife,0.000
+1989," 17,662,020 ",Lorry Driver,0.000
+1989," 17,662,020 ",Others,0.000
+1989," 17,662,020 ",No Permenant Job,0.006
+1990," 18,102,362 ",Unemployed,0.022
+1990," 18,102,362 ",Government servant,0.000
+1990," 18,102,362 ",Student,0.000
+1990," 18,102,362 ",Police/Army,0.000
+1990," 18,102,362 ",Fisherman/Fishmonger,0.000
+1990," 18,102,362 ",Factory Woker,0.000
+1990," 18,102,362 ",Private Sector ,0.000
+1990," 18,102,362 ",Prostitute,0.000
+1990," 18,102,362 ",Housewife,0.000
+1990," 18,102,362 ",Lorry Driver,0.000
+1990," 18,102,362 ",Others,0.017
+1990," 18,102,362 ",No Permenant Job,0.017
+1991," 18,547,200 ",Unemployed,0.038
+1991," 18,547,200 ",Government servant,0.000
+1991," 18,547,200 ",Student,0.000
+1991," 18,547,200 ",Police/Army,0.000
+1991," 18,547,200 ",Fisherman/Fishmonger,0.000
+1991," 18,547,200 ",Factory Woker,0.005
+1991," 18,547,200 ",Private Sector ,0.005
+1991," 18,547,200 ",Prostitute,0.000
+1991," 18,547,200 ",Housewife,0.005
+1991," 18,547,200 ",Lorry Driver,0.005
+1991," 18,547,200 ",Others,0.027
+1991," 18,547,200 ",No Permenant Job,0.016
+1992," 19,067,479 ",Unemployed,0.094
+1992," 19,067,479 ",Government servant,0.000
+1992," 19,067,479 ",Student,0.000
+1992," 19,067,479 ",Police/Army,0.000
+1992," 19,067,479 ",Fisherman/Fishmonger,0.005
+1992," 19,067,479 ",Factory Woker,0.010
+1992," 19,067,479 ",Private Sector ,0.010
+1992," 19,067,479 ",Prostitute,0.000
+1992," 19,067,479 ",Housewife,0.010
+1992," 19,067,479 ",Lorry Driver,0.005
+1992," 19,067,479 ",Others,0.063
+1992," 19,067,479 ",No Permenant Job,0.042
+1993," 19,601,507 ",Unemployed,0.107
+1993," 19,601,507 ",Government servant,0.000
+1993," 19,601,507 ",Student,0.000
+1993," 19,601,507 ",Police/Army,0.005
+1993," 19,601,507 ",Fisherman/Fishmonger,0.005
+1993," 19,601,507 ",Factory Woker,0.010
+1993," 19,601,507 ",Private Sector ,0.010
+1993," 19,601,507 ",Prostitute,0.000
+1993," 19,601,507 ",Housewife,0.015
+1993," 19,601,507 ",Lorry Driver,0.010
+1993," 19,601,507 ",Others,0.071
+1993," 19,601,507 ",No Permenant Job,0.046
+1994," 20,141,726 ",Unemployed,0.154
+1994," 20,141,726 ",Government servant,0.005
+1994," 20,141,726 ",Student,0.000
+1994," 20,141,726 ",Police/Army,0.005
+1994," 20,141,726 ",Fisherman/Fishmonger,0.010
+1994," 20,141,726 ",Factory Woker,0.015
+1994," 20,141,726 ",Private Sector ,0.015
+1994," 20,141,726 ",Prostitute,0.000
+1994," 20,141,726 ",Housewife,0.020
+1994," 20,141,726 ",Lorry Driver,0.010
+1994," 20,141,726 ",Others,0.109
+1994," 20,141,726 ",No Permenant Job,0.055
+1995," 20,681,815 ",Unemployed,0.309
+1995," 20,681,815 ",Government servant,0.005
+1995," 20,681,815 ",Student,0.005
+1995," 20,681,815 ",Police/Army,0.010
+1995," 20,681,815 ",Fisherman/Fishmonger,0.019
+1995," 20,681,815 ",Factory Woker,0.029
+1995," 20,681,815 ",Private Sector ,0.029
+1995," 20,681,815 ",Prostitute,0.000
+1995," 20,681,815 ",Housewife,0.039
+1995," 20,681,815 ",Lorry Driver,0.024
+1995," 20,681,815 ",Others,0.213
+1995," 20,681,815 ",No Permenant Job,0.116
+1996," 21,222,619 ",Unemployed,0.499
+1996," 21,222,619 ",Government servant,0.009
+1996," 21,222,619 ",Student,0.005
+1996," 21,222,619 ",Police/Army,0.014
+1996," 21,222,619 ",Fisherman/Fishmonger,0.033
+1996," 21,222,619 ",Factory Woker,0.047
+1996," 21,222,619 ",Private Sector ,0.052
+1996," 21,222,619 ",Prostitute,0.000
+1996," 21,222,619 ",Housewife,0.061
+1996," 21,222,619 ",Lorry Driver,0.038
+1996," 21,222,619 ",Others,0.339
+1996," 21,222,619 ",No Permenant Job,0.179
+1997," 21,769,269 ",Unemployed,0.845
+1997," 21,769,269 ",Government servant,0.018
+1997," 21,769,269 ",Student,0.009
+1997," 21,769,269 ",Police/Army,0.023
+1997," 21,769,269 ",Fisherman/Fishmonger,0.055
+1997," 21,769,269 ",Factory Woker,0.083
+1997," 21,769,269 ",Private Sector ,0.087
+1997," 21,769,269 ",Prostitute,0.000
+1997," 21,769,269 ",Housewife,0.101
+1997," 21,769,269 ",Lorry Driver,0.064
+1997," 21,769,269 ",Others,0.579
+1997," 21,769,269 ",No Permenant Job,0.308
+1998," 22,333,506 ",Unemployed,1.204
+1998," 22,333,506 ",Government servant,0.027
+1998," 22,333,506 ",Student,0.013
+1998," 22,333,506 ",Police/Army,0.031
+1998," 22,333,506 ",Fisherman/Fishmonger,0.076
+1998," 22,333,506 ",Factory Woker,0.116
+1998," 22,333,506 ",Private Sector ,0.121
+1998," 22,333,506 ",Prostitute,0.004
+1998," 22,333,506 ",Housewife,0.143
+1998," 22,333,506 ",Lorry Driver,0.090
+1998," 22,333,506 ",Others,0.819
+1998," 22,333,506 ",No Permenant Job,0.439
+1999," 22,909,452 ",Unemployed,1.502
+1999," 22,909,452 ",Government servant,0.035
+1999," 22,909,452 ",Student,0.013
+1999," 22,909,452 ",Police/Army,0.039
+1999," 22,909,452 ",Fisherman/Fishmonger,0.096
+1999," 22,909,452 ",Factory Woker,0.148
+1999," 22,909,452 ",Private Sector ,0.153
+1999," 22,909,452 ",Prostitute,0.004
+1999," 22,909,452 ",Housewife,0.175
+1999," 22,909,452 ",Lorry Driver,0.109
+1999," 22,909,452 ",Others,1.004
+1999," 22,909,452 ",No Permenant Job,0.537
+2000," 23,494,891 ",Unemployed,1.481
+2000," 23,494,891 ",Government servant,0.034
+2000," 23,494,891 ",Student,0.017
+2000," 23,494,891 ",Police/Army,0.038
+2000," 23,494,891 ",Fisherman/Fishmonger,0.094
+2000," 23,494,891 ",Factory Woker,0.145
+2000," 23,494,891 ",Private Sector ,0.145
+2000," 23,494,891 ",Prostitute,0.004
+2000," 23,494,891 ",Housewife,0.175
+2000," 23,494,891 ",Lorry Driver,0.111
+2000," 23,494,891 ",Others,0.987
+2000," 23,494,891 ",No Permenant Job,0.524
+2001," 24,012,900 ",Unemployed,1.728
+2000," 23,494,891 ",Government servant,0.042
+2000," 23,494,891 ",Student,0.017
+2000," 23,494,891 ",Police/Army,0.046
+2000," 23,494,891 ",Fisherman/Fishmonger,0.108
+2000," 23,494,891 ",Factory Woker,0.167
+2000," 23,494,891 ",Private Sector ,0.171
+2000," 23,494,891 ",Prostitute,0.004
+2000," 23,494,891 ",Housewife,0.208
+2000," 23,494,891 ",Lorry Driver,0.129
+2000," 23,494,891 ",Others,1.158
+2000," 23,494,891 ",No Permenant Job,0.620
+2002," 24,526,500 ",Unemployed,1.692
+2002," 24,526,500 ",Government servant,0.037
+2002," 24,526,500 ",Student,0.016
+2002," 24,526,500 ",Police/Army,0.045
+2002," 24,526,500 ",Fisherman/Fishmonger,0.106
+2002," 24,526,500 ",Factory Woker,0.163
+2002," 24,526,500 ",Private Sector ,0.167
+2002," 24,526,500 ",Prostitute,0.004
+2002," 24,526,500 ",Housewife,0.200
+2002," 24,526,500 ",Lorry Driver,0.126
+2002," 24,526,500 ",Others,1.129
+2002," 24,526,500 ",No Permenant Job,0.603
+2003," 25,048,300 ",Unemployed,1.361
+2003," 25,048,300 ",Government servant,0.032
+2003," 25,048,300 ",Student,0.012
+2003," 25,048,300 ",Police/Army,0.036
+2003," 25,048,300 ",Fisherman/Fishmonger,0.088
+2003," 25,048,300 ",Factory Woker,0.132
+2003," 25,048,300 ",Private Sector ,0.136
+2003," 25,048,300 ",Prostitute,0.004
+2003," 25,048,300 ",Housewife,0.164
+2003," 25,048,300 ",Lorry Driver,0.100
+2003," 25,048,300 ",Others,0.914
+2003," 25,048,300 ",No Permenant Job,0.491
+2004," 25,580,900 ",Unemployed,1.642
+2004," 25,580,900 ",Government servant,0.039
+2004," 25,580,900 ",Student,0.016
+2004," 25,580,900 ",Police/Army,0.043
+2004," 25,580,900 ",Fisherman/Fishmonger,0.106
+2004," 25,580,900 ",Factory Woker,0.160
+2004," 25,580,900 ",Private Sector ,0.164
+2004," 25,580,900 ",Prostitute,0.004
+2004," 25,580,900 ",Housewife,0.195
+2004," 25,580,900 ",Lorry Driver,0.121
+2004," 25,580,900 ",Others,1.095
+2004," 25,580,900 ",No Permenant Job,0.590
+2005," 26,127,700 ",Unemployed,1.845
+2005," 26,127,700 ",Government servant,0.046
+2005," 26,127,700 ",Student,0.019
+2005," 26,127,700 ",Police/Army,0.050
+2005," 26,127,700 ",Fisherman/Fishmonger,0.122
+2005," 26,127,700 ",Factory Woker,0.184
+2005," 26,127,700 ",Private Sector ,0.188
+2005," 26,127,700 ",Prostitute,0.004
+2005," 26,127,700 ",Housewife,0.222
+2005," 26,127,700 ",Lorry Driver,0.138
+2005," 26,127,700 ",Others,1.236
+2005," 26,127,700 ",No Permenant Job,0.658
+2006," 26,640,200 ",Unemployed,1.738
+2006," 26,640,200 ",Government servant,0.041
+2006," 26,640,200 ",Student,0.019
+2006," 26,640,200 ",Police/Army,0.030
+2006," 26,640,200 ",Fisherman/Fishmonger,0.094
+2006," 26,640,200 ",Factory Woker,0.083
+2006," 26,640,200 ",Private Sector ,0.206
+2006," 26,640,200 ",Prostitute,0.004
+2006," 26,640,200 ",Housewife,0.199
+2006," 26,640,200 ",Lorry Driver,0.109
+2006," 26,640,200 ",Others,1.471
+2006," 26,640,200 ",No Permenant Job,0.965
+2007," 27,173,600 ",Unemployed,1.685
+2007," 27,173,600 ",Government servant,0.052
+2007," 27,173,600 ",Student,0.011
+2007," 27,173,600 ",Police/Army,0.015
+2007," 27,173,600 ",Fisherman/Fishmonger,0.081
+2007," 27,173,600 ",Factory Woker,0.121
+2007," 27,173,600 ",Private Sector ,0.302
+2007," 27,173,600 ",Prostitute,0.029
+2007," 27,173,600 ",Housewife,0.232
+2007," 27,173,600 ",Lorry Driver,0.085
+2007," 27,173,600 ",Others,2.090
+2007," 27,173,600 ",No Permenant Job,0.353
+2008," 27,728,700 ",Unemployed,1.410
+2008," 27,728,700 ",Government servant,0.061
+2008," 27,728,700 ",Student,0.022
+2008," 27,728,700 ",Police/Army,0.018
+2008," 27,728,700 ",Fisherman/Fishmonger,0.101
+2008," 27,728,700 ",Factory Woker,0.216
+2008," 27,728,700 ",Private Sector ,0.000
+2008," 27,728,700 ",Prostitute,0.022
+2008," 27,728,700 ",Housewife,0.184
+2008," 27,728,700 ",Lorry Driver,0.180
+2008," 27,728,700 ",Others,1.374
+2008," 27,728,700 ",No Permenant Job,0.198
+2009," 28,306,700 ",Unemployed,1.007
+2009," 28,306,700 ",Government servant,0.049
+2009," 28,306,700 ",Student,0.028
+2009," 28,306,700 ",Police/Army,0.018
+2009," 28,306,700 ",Fisherman/Fishmonger,0.071
+2009," 28,306,700 ",Factory Woker,0.134
+2009," 28,306,700 ",Private Sector ,0.117
+2009," 28,306,700 ",Prostitute,0.032
+2009," 28,306,700 ",Housewife,0.141
+2009," 28,306,700 ",Lorry Driver,0.074
+2009," 28,306,700 ",Others,0.989
+2009," 28,306,700 ",No Permenant Job,0.184
+2010," 28,250,400 ",Unemployed,1.267
+2010," 28,250,400 ",Government servant,0.028
+2010," 28,250,400 ",Student,0.021
+2010," 28,250,400 ",Police/Army,0.021
+2010," 28,250,400 ",Fisherman/Fishmonger,0.057
+2010," 28,250,400 ",Factory Woker,0.074
+2010," 28,250,400 ",Private Sector ,0.092
+2010," 28,250,400 ",Prostitute,0.011
+2010," 28,250,400 ",Housewife,0.209
+2010," 28,250,400 ",Lorry Driver,0.057
+2010," 28,250,400 ",Others,0.991
+2010," 28,250,400 ",No Permenant Job,0.372
+2011," 28,552,500 ",Unemployed,1.026
+2011," 28,552,500 ",Government servant,0.035
+2011," 28,552,500 ",Student,0.021
+2011," 28,552,500 ",Police/Army,0.014
+2011," 28,552,500 ",Fisherman/Fishmonger,0.032
+2011," 28,552,500 ",Factory Woker,0.056
+2011," 28,552,500 ",Private Sector ,0.070
+2011," 28,552,500 ",Prostitute,0.014
+2011," 28,552,500 ",Housewife,0.165
+2011," 28,552,500 ",Lorry Driver,0.074
+2011," 28,552,500 ",Others,0.757
+2011," 28,552,500 ",No Permenant Job,0.147
+2012," 29,336,800 ",Unemployed,0.961
+2012," 29,336,800 ",Government servant,0.031
+2012," 29,336,800 ",Student,0.031
+2012," 29,336,800 ",Police/Army,0.020
+2012," 29,336,800 ",Fisherman/Fishmonger,0.055
+2012," 29,336,800 ",Factory Woker,0.061
+2012," 29,336,800 ",Private Sector ,0.085
+2012," 29,336,800 ",Prostitute,0.010
+2012," 29,336,800 ",Housewife,0.136
+2012," 29,336,800 ",Lorry Driver,0.065
+2012," 29,336,800 ",Others,0.753
+2012," 29,336,800 ",No Permenant Job,0.184
+2013," 29,714,700 ",Unemployed,0.804
+2013," 29,714,700 ",Government servant,0.047
+2013," 29,714,700 ",Student,0.020
+2013," 29,714,700 ",Police/Army,0.020
+2013," 29,714,700 ",Fisherman/Fishmonger,0.044
+2013," 29,714,700 ",Factory Woker,0.054
+2013," 29,714,700 ",Private Sector ,0.101
+2013," 29,714,700 ",Prostitute,0.007
+2013," 29,714,700 ",Housewife,0.131
+2013," 29,714,700 ",Lorry Driver,0.061
+2013," 29,714,700 ",Others,0.690
+2013," 29,714,700 ",No Permenant Job,0.215
+2014," 30,098,100 ",Unemployed,0.890
+2014," 30,098,100 ",Government servant,0.066
+2014," 30,098,100 ",Student,0.033
+2014," 30,098,100 ",Police/Army,0.003
+2014," 30,098,100 ",Fisherman/Fishmonger,0.033
+2014," 30,098,100 ",Factory Woker,0.073
+2014," 30,098,100 ",Private Sector ,0.110
+2014," 30,098,100 ",Prostitute,0.000
+2014," 30,098,100 ",Housewife,0.179
+2014," 30,098,100 ",Lorry Driver,0.047
+2014," 30,098,100 ",Others,0.897
+2014," 30,098,100 ",No Permenant Job,0.179
