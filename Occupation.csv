@@ -1,4 +1,4 @@
-Year,Nx,Occupation,MortRate
+Year,Nx,JobStatus,MortRate
 1986," 16,329,375 ",Unemployed,0.000
 1986," 16,329,375 ",Government servant,0.000
 1986," 16,329,375 ",Student,0.000
